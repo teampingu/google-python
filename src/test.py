@@ -16,4 +16,4 @@ while i < len(lista):
   print lista[i]
   i += 3
 print "Ostatni ele listy", lista[len(lista)-1]
-sys.exit()
+sys.exit(1)
