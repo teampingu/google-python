@@ -48,6 +48,7 @@ def extract_names(filename):
     f = open(filename,'r')
   except (IOError) as expt:
     print "** Exception handled **"
+    print "-- Exit with error code 2 --"
     print expt
     sys.exit(2)
   
