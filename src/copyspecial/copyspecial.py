@@ -13,6 +13,7 @@ import shutil
 import commands
 
 """Copy Special exercise
+erobtom This exercise help you to get know external modules
 """
 
 # +++your code here+++
